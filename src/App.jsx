@@ -8,7 +8,7 @@ function App() {
     <div>
 
       <NavBar />
-      <ItemListContainer greeting={"Bienvenidos a Pc Lux"} />
+      <ItemListContainer greeting={"Bienvenidos a Pc Lux, su tienda de hardware de confianza"} />
 
     </div>
 
