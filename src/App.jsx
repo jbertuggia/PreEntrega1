@@ -9,7 +9,7 @@ function App() {
 
       <NavBar />
       <ItemListContainer greeting={"Bienvenidos a Pc Lux, su tienda de hardware de confianza"} />
-
+      
     </div>
 
   )
